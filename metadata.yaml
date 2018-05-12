@@ -1,0 +1,30 @@
+_repo: Minnebrieven--Over-Vrijen-Arbeid-in-Nederlandsch-Indi---Indrukken-van-den-dag_41060
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41060-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Multatuli
+    alias: Dekker, Eduard Douwes
+    birthdate: 1820
+    deathdate: 1887
+    gutenberg_agent_id: '3624'
+    url: http://www.gutenberg.org/2009/agents/3624
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Multatuli
+    - http://www.iisg.nl/bwsa/bios/douwes-dekker.html
+description: ''
+gutenberg_issued: '2012-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41060'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch literature'
+- !lcc 'PT'
+title: Minnebrieven; Over Vrijen-Arbeid in Nederlandsch Indië; Indrukken van den dag
+url: http://www.gutenberg.org/ebooks/41060
