@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Multatuli
     - http://www.iisg.nl/bwsa/bios/douwes-dekker.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41060#Minnebrieven--Over-Vrijen-Arbeid-in-Nederlandsch-Indi---Indrukken-van-den-dag
 gutenberg_issued: '2012-10-14'
 gutenberg_type: Text
 identifiers:
